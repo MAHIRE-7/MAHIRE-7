@@ -109,9 +109,6 @@
 
 ### 📊 GitHub Analytics
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAHIRE-7" alt="GitHub Streak" /></a>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIRE-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
