@@ -55,7 +55,6 @@ Beyond my day-to-day engineering work, I love **learning in public, building ope
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,linux,bash&perline=8" />
 
-<br><br>
 
 ### 💻 Development
 
