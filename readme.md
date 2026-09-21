@@ -1,4 +1,3 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=29&pause=1000&width=435&lines=Hi%2C+I'm+Manoday+Ahire+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -30,7 +29,7 @@
 ---
 
 ## 🚀 About Me
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=29&pause=1000&width=435&lines=Hi%2C+I'm+Manoday+Ahire+%F0%9F%91%8B)](https://git.io/typing-svg)
 I'm a **Cloud Infrastructure Engineer, AWS & DevOps enthusiast, Tech Speaker, and Open-Source Builder** passionate about turning ideas into reliable, scalable technology.
 
 My work revolves around **AWS Cloud, DevOps, CI/CD, Infrastructure as Code, DevSecOps, containers, and observability**. I enjoy automating things that shouldn't be manual, building infrastructure that can scale, and exploring how **AI can make everyday engineering workflows smarter and more efficient**.
