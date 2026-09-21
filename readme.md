@@ -31,23 +31,14 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud Infrastructure Engineer** focused on AWS, DevOps, automation, observability and secure cloud architecture.
+I'm a **Cloud Infrastructure Engineer, AWS & DevOps enthusiast, Tech Speaker, and Open-Source Builder** passionate about turning ideas into reliable, scalable technology.
 
-I enjoy building reliable infrastructure and turning manual engineering processes into automated, scalable workflows.
+My work revolves around **AWS Cloud, DevOps, CI/CD, Infrastructure as Code, DevSecOps, containers, and observability**. I enjoy automating things that shouldn't be manual, building infrastructure that can scale, and exploring how **AI can make everyday engineering workflows smarter and more efficient**.
 
-* ☁️ Cloud Infrastructure & Architecture
-* ⚙️ DevOps & CI/CD Automation
-* 🐳 Docker, ECS & Kubernetes
-* 🏗️ Infrastructure as Code with Terraform
-* 🔐 DevSecOps, IAM, WAF & KMS
-* 📊 Observability with SigNoz, OpenTelemetry & CloudWatch
-* 🤖 AI-powered engineering automation
-* 🚀 Open-source builder
-* 🎤 Tech Speaker
-* 🏆 Best Employee Award — Q2 2026
-* 🏆 Best Outgoing Student of the Batch — 2022–25
+Beyond my day-to-day engineering work, I love **learning in public, building open-source projects, sharing what I learn, and connecting with the tech community**. I'm currently building **PingsNest**, an open-source cloud monitoring and observability platform, while continuously exploring new ideas across Cloud, DevOps, and AI.
 
 > **Build. Automate. Learn. Share.**
+
 
 ---
 
@@ -68,7 +59,7 @@ I enjoy building reliable infrastructure and turning manual engineering processe
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python &perline=6" />
+<img src="https://skillicons.dev/icons?i=python&perline=6" />
 
 
 ### 📊 Observability & Databases
