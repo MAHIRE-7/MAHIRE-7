@@ -1,4 +1,4 @@
-# Hi, I'm Manoday Ahire 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=29&pause=1000&width=435&lines=Hi%2C+I'm+Manoday+Ahire+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div align="center">
 
