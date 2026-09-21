@@ -1,123 +1,236 @@
-# Hi there, I'm Manoday Ahire 👋
+# Hi, I'm Manoday Ahire 👋
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manodayahire.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manodayahire.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manodayAhire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manodayAhire)
-[![GitHub](https://img.shields.io/badge/GitHub-MAHIRE--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHIRE-7)
-[![Email](https://img.shields.io/badge/Email-manodayahire786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manodayahire786@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00d9ff&height=200&section=header&text=Manoday%20Ahire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20%7C%20Tech%20Speaker&descAlignY=62&descSize=20" />
 
-</div>
+### ☁️ Cloud Infrastructure Engineer · AWS & DevOps · Tech Speaker · Builder
 
-<p align="center">
-  <b>☁️ Cloud Infrastructure & DevOps Engineer | AWS & Azure Specialist | IaC & Observability Enthusiast</b><br>
-  <i>Passionate about architecting resilient cloud infrastructure, zero-downtime deployments, and automated GitOps workflows.</i>
+**Building cloud infrastructure, automating engineering workflows, and sharing what I learn.**
+
+<p>
+  <a href="https://manodayahire.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/manodayAhire">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MAHIRE-7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:manodayahire786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently engineering scalable cloud platforms at **Reg-X Innovations** as a **Cloud Infrastructure Engineer**.
-- 🛠️ Modernized legacy stacks into cloud-native architectures using **AWS ECS, ECR, ALB, and WAF**, eliminating ~20 minutes of deployment downtime.
-- ⚙️ Architect of **[PingsNest](https://github.com/MAHIRE-7/PingsNest)** — an open-source cloud observability platform for monitoring AWS Lambda, API Gateways, and uptime metrics.
-- 🛡️ Advocate for **DevSecOps** and **Least Privilege Security** (IAM, KMS, WAF, network segmentation).
-- 🏆 Recognized with **Best Employee Award (Q2 2026)** at Reg-X Innovations & **Best Outgoing Student of the Batch (2022–2025)** at DYPCOEI.
-- 📍 Based in **Pune, India**.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![VPC](https://img.shields.io/badge/Amazon_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![SigNoz](https://img.shields.io/badge/SigNoz-0052CC?style=for-the-badge&logo=signoz&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_RDS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS_KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://komarev.com/ghpvc/?username=MAHIRE-7&label=Profile%20Views&color=00d9ff&style=flat-square" />
 
 </div>
 
 ---
 
-### 📜 Certifications
+## 🚀 About Me
 
-- 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** — *Amazon Web Services*
-- 🏅 **AWS Certified Cloud Practitioner (CLF-C02)** — *Amazon Web Services*
-- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** — *Microsoft*
-- 🏅 **Redis Certified: Redis Associate Cloud Operator** — *Redis*
-- 🏅 **Redis Certified: Associate Software Operator** — *Redis*
-- 🏅 **Linux for Cloud and DevOps Engineers** — *Udemy*
+I'm a **Cloud Infrastructure Engineer** focused on AWS, DevOps, automation, observability and secure cloud architecture.
 
----
+I enjoy building reliable infrastructure and turning manual engineering processes into automated, scalable workflows.
 
-### 📂 Featured Projects
+* ☁️ Cloud Infrastructure & Architecture
+* ⚙️ DevOps & CI/CD Automation
+* 🐳 Docker, ECS & Kubernetes
+* 🏗️ Infrastructure as Code with Terraform
+* 🔐 DevSecOps, IAM, WAF & KMS
+* 📊 Observability with SigNoz, OpenTelemetry & CloudWatch
+* 🤖 AI-powered engineering automation
+* 🚀 Open-source builder
+* 🎤 Tech Speaker
+* 🏆 Best Employee Award — Q2 2026
+* 🏆 Best Outgoing Student of the Batch — 2022–25
 
-#### 🌐 [PingsNest (Open Source Observability)](https://github.com/MAHIRE-7/PingsNest)
-> **Stack:** AWS Lambda, API Gateway, OpenTelemetry, Grafana, Microservices
-- Open-sourced centralized cloud observability and monitoring platform.
-- Real-time dashboards monitoring health, API latency, log aggregation, and automated alerting across distributed AWS services.
-- Scalable, modular architecture engineered to monitor hundreds of endpoints across multi-account AWS environments.
-
-#### 🛡️ [GrapeVault on AWS (IaC & Security)](https://github.com/MAHIRE-7)
-> **Stack:** Terraform, AWS EC2, S3, VPC, IAM, KMS, CloudWatch
-- Automated complete cloud infrastructure provisioning using **Terraform (IaC)**.
-- Enforced security guardrails including least-privilege IAM policies, security groups, KMS customer-managed encryption, and isolated multi-AZ VPC topologies.
-- Centralized CloudWatch dashboards and alarm actions for proactive incident remediation.
-
-#### 🔄 [Wanderlust – DevSecOps Pipeline](https://github.com/MAHIRE-7)
-> **Stack:** Jenkins, AWS (EC2, S3, IAM, VPC), Docker, Security Scanners
-- Built end-to-end CI/CD automated pipeline via Jenkins with integrated DevSecOps stages.
-- Automated static code quality gates and dependency vulnerability scanning before deployment to production environments.
+> **Build. Automate. Learn. Share.**
 
 ---
 
-### 💼 Experience Timeline
-
-- **Cloud Infrastructure Engineer** @ [Reg-X Innovations](https://reg-x.io) *(Mar 2026 – Present)*
-  - Modernized legacy infrastructure to containerized AWS ECS/ECR microservices with ALB & WAF.
-  - Implemented zero-downtime rolling/blue-green deployments, saving 20 minutes of downtime per release.
-  - Built Terraform IaC modules & centralized telemetry with SigNoz and OpenTelemetry.
-- **Cloud Infrastructure Engineer Intern** @ Excellon Software *(Oct 2025 – Mar 2026)*
-  - Monitored Azure enterprise workloads using Azure Monitor and Log Analytics.
-  - Optimized resource utilization across compute, networking, and storage layers.
-
----
-
-### 📊 GitHub Analytics
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAHIRE-7" alt="GitHub Streak" /></a>
-
----
-
-### 🤝 Let's Connect!
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manodayahire.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manodayAhire)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manodayahire786@gmail.com)
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible&perline=6" />
+
+
+### 🚀 DevOps & Containers
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,linux,bash&perline=8" />
+
+<br><br>
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=python &perline=6" />
+
+
+### 📊 Observability & Databases
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,postgres,redis&perline=6" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=nginx,cloudflare,postman,vscode&perline=6" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+# 🐦 PingsNest
+
+### Open-source Cloud Observability & Monitoring Platform
+
+<a href="https://github.com/MAHIRE-7/PingsNest">
+<img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://pingsnest.com">
+<img src="https://img.shields.io/badge/🌐%20Live%20Project-00D9FF?style=for-the-badge" />
+</a>
+
+</div>
+
+**PingsNest** is an open-source monitoring and observability platform designed to provide centralized visibility into cloud workloads and application health.
+
+### ⚡ Key Areas
+
+* 🔗 URL & API monitoring
+* ☁️ AWS Lambda monitoring
+* 🚪 API Gateway monitoring
+* 📊 Cloud observability
+* 🔍 Log aggregation
+* 📈 Metrics & dashboards
+* 🚨 Monitoring & alerting
+* 🔐 Multi-account AWS monitoring
+* 🧩 Cloud-native architecture
+
+**Built with:**
+
+`AWS` · `Lambda` · `API Gateway` · `OpenTelemetry` · `Grafana` · `CloudWatch` · `Go` · `Docker`
+
+---
+
+## 💼 Experience
+
+### ☁️ Cloud Infrastructure Engineer — Reg-X Innovations
+
+**Mar 2026 – Present**
+
+* Modernized legacy infrastructure into containerized AWS architecture using **ECS, ECR, ALB and WAF**.
+* Implemented rolling deployment strategies achieving **zero-downtime deployments**.
+* Built and improved **CI/CD pipelines and DevOps automation** using Jenkins.
+* Implemented infrastructure and security best practices across AWS environments.
+* Worked on **IAM, WAF, encryption, network segmentation and access controls**.
+* Implemented centralized observability using **SigNoz and OpenTelemetry**.
+* Automated cloud resource management and cost-optimization activities.
+* Built AI-assisted automation for release management and engineering workflows.
+
+---
+
+### ☁️ Cloud Infrastructure Engineer Intern — Excellon Software
+
+**Oct 2025 – Mar 2026**
+
+* Supported Azure cloud infrastructure for internal and client-facing applications.
+* Performed infrastructure health checks using **Azure Monitor and Log Analytics**.
+* Supported application deployments, monitoring and availability.
+* Assisted with incident handling, access management and security processes.
+* Worked with cloud compute, networking and storage resources.
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏆 Achievement                                   | Year    |
+| ------------------------------------------------ | ------- |
+| **Best Employee Award — Reg-X Innovations**      | 2026    |
+| **Best Outgoing Student of the Batch — DYPCOEI** | 2025    |
+| **Former Student Council President**             | 2024–25 |
+| **Tech Speaker**                                 | —       |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+🏅 **AWS Certified Cloud Practitioner (CLF-C02)**
+
+🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+🏅 **Redis Certified: Redis Associate Cloud Operator**
+
+🏅 **Redis Certified: Associate Software Operator**
+
+🏅 **Linux for Cloud and DevOps Engineers**
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MAHIRE-7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIRE-7&layout=compact&theme=transparent&hide_border=true" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MAHIRE-7&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### Cloud · DevOps · AWS · Open Source · Tech
+
+<br>
+
+<a href="https://manodayahire.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/manodayAhire">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:manodayahire786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+**☁️ Cloud Infrastructure · ⚙️ DevOps · 🚀 Open Source · 🎤 Tech Speaker**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f172a&height=120&section=footer" />
 
 </div>
