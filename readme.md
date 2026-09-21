@@ -108,12 +108,7 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHIRE-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoday's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIRE-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAHIRE-7" alt="GitHub Streak" /></a>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIRE-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
